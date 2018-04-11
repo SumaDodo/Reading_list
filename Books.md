@@ -1,4 +1,4 @@
-**This is the comprehensive list of books that I read and I intend to read. It's a never ending journey and to be lost amongst these
+**This is the comprehensive list of books that I have read and I intend to read. It's a never ending journey and to be lost amongst these
 is like finding yourself**
 
 Books give a soul to the universe,

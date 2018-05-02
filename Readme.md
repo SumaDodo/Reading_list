@@ -14,3 +14,9 @@ It's quite fascinating to think about what really would have happened in those i
 This book creates a kind of timeline and takes you on a journey at the beginning of time so to say.
 A great book! And must read for people interested in Physics in general and Cosmology in particular. 
 ```
+- Siddhartha by Hermann Hesse (1922)
+```
+Being dead and being alive always go hand in hand, but they are distinguished from each other just by a breath.
+Likewise, being awakened and being unawakened exist side by side, but they always remain apart from each other 
+just by a thought
+```

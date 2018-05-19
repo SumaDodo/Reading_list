@@ -22,11 +22,14 @@ just by a thought
 ```
 - Origin by Dan Brown
 ```
-An ExtraOrdinary account of another Robert Lagdon story. Gripping, thoughtful and insightful. I seem to be a little biased with all of the Dan Brown stories - the reason being his articulative nature of story telling. Blend of history is like icing on the cake. Enjoy reading it.
+An ExtraOrdinary account of another Robert Lagdon story. Gripping, thoughtful and insightful. I seem to be a 
+little biased with all of the Dan Brown stories - the reason being his articulative nature of story telling. 
+Blend of history is like icing on the cake. Enjoy reading it.
 ```
 - Inferno by Dan Brown
 ```
-A marvel in itself. Personally was compelled to read more about Dante Aligheri and his work The Divine Comedy after the reference in this book.
+A marvel in itself. Personally was compelled to read more about Dante Aligheri and his work The Divine Comedy
+after the reference in this book.
 ```
 - The Lost Symbol by Dan Brown
 ```

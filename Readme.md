@@ -43,3 +43,10 @@ The world knows more than what I can comprehend about this book.
 ```
 Stupendous.
 ```
+- **The GOD Particle by Leon Lederman**
+```
+Using Humor, metaphor, and vivid storytelling, Leon Lederman takes us on an adventure into an 
+invisible world. The God Particle is a celebration of human curiosity, a thrilling book by a man
+whose genius for discovering the secrets of the universe is matched by his gift for illuminating
+the wonders of science.
+```

@@ -50,3 +50,6 @@ invisible world. The God Particle is a celebration of human curiosity, a thrilli
 whose genius for discovering the secrets of the universe is matched by his gift for illuminating
 the wonders of science.
 ```
+- **The World of Physics**
+```
+A comprehensive book of essays and lectures by the famous physicists
